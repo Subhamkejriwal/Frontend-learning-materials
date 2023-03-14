@@ -1,0 +1,9 @@
+To install nodejs --> https://nodejs.org/en/download/
+
+To start for setting up environment -->
+create a folder where your workspace will be
+Inside the folder Shift + right key and then select powershell window 
+To check version of Node.js and npm --> node --version/npm --version
+
+Now for angular --> 
+Follow the steps mention here --> https://angular.io/cli
